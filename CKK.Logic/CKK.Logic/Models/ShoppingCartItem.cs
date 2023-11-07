@@ -11,26 +11,26 @@ namespace CKK.Logic.Models
       private Product _product;
       private int _quantity;
 
-      public ShoppingCartItem(Product product, int quantity)
+      public ShoppingCartItem(Product Product, int Quantity)
       {
-         _product = product;
-         _quantity = quantity;
+         _product = Product;
+         _quantity = Quantity;
       }
       public int GetQuantity()
       {
          return _quantity;
       }
-      public void SetQuantity(int quantity)
+      public void SetQuantity(int Quantity)
       {
-         _quantity = quantity;
+         _quantity = Quantity;
       }
       public Product GetProduct()
       {
          return _product;
       }
-      public void SetProduct(Product product)
+      public void SetProduct(Product Product)
       {
-         _product = product;
+         _product = Product;
       }
    }
 }

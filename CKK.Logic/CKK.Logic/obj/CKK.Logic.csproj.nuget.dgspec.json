@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\New folder\\New folder\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj": {}
+    "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\Real CKK Folder\\Real CKK.Logic folder\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\New folder\\New folder\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj": {
+    "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\Real CKK Folder\\Real CKK.Logic folder\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\New folder\\New folder\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\Real CKK Folder\\Real CKK.Logic folder\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj",
         "projectName": "CKK.Logic",
-        "projectPath": "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\New folder\\New folder\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj",
+        "projectPath": "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\Real CKK Folder\\Real CKK.Logic folder\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj",
         "packagesPath": "C:\\Users\\larav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\New folder\\New folder\\CKK.Logic\\CKK.Logic\\obj\\",
+        "outputPath": "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\Real CKK Folder\\Real CKK.Logic folder\\CKK.Logic\\CKK.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

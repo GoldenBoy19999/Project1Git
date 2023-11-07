@@ -9,7 +9,7 @@ namespace CKK.Logic.Models
    public class Product
    {
       private int _id;
-      private string _name;
+      private string _name = " ";
       private decimal _price;
 
       public int GetId()
@@ -24,7 +24,7 @@ namespace CKK.Logic.Models
       {
          return _name;
       }
-      public void setName(string Name)
+      public void SetName(string Name)
       {
          _name = Name;
       }
