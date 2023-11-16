@@ -39,5 +39,28 @@ namespace CKK.Logic.Models
 
          return null;
       }
+      private StoreItem AddProduct(Product prod, int quantity)
+      {
+         if (_product1 == null)
+         {
+            _product1 = new StoreItem(prod, quantity);
+            return _product1;
+         }
+
+         if (_product2 == null)
+         {
+            _product2 = new StoreItem(prod, quantity);
+            return _product2;
+         }
+
+         if (_product3 == null)
+         {
+            _product3 = new StoreItem(prod, quantity);
+            return _product3;
+         }
+
+        
+         return null;
+      }
    }
 }
