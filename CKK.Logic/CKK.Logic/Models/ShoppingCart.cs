@@ -8,6 +8,9 @@ namespace CKK.Logic.Models
 {
    public class ShoppingCart
    {
-
+      private Customer _customer;
+      private ShoppingCartItem _product1;
+      private ShoppingCartItem _product2;
+      private ShoppingCartItem _product3;
    }
 }
