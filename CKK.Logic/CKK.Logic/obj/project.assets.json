@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\larav\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\4400092857\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\Real CKK Folder\\Real CKK.Logic folder\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj",
+      "projectUniqueName": "C:\\Users\\4400092857\\Source\\Repos\\Project1Git\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj",
       "projectName": "CKK.Logic",
-      "projectPath": "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\Real CKK Folder\\Real CKK.Logic folder\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj",
-      "packagesPath": "C:\\Users\\larav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\larav\\OneDrive\\Desktop\\MyProgramming\\Project1\\Real CKK Folder\\Real CKK.Logic folder\\CKK.Logic\\CKK.Logic\\obj\\",
+      "projectPath": "C:\\Users\\4400092857\\Source\\Repos\\Project1Git\\CKK.Logic\\CKK.Logic\\CKK.Logic.csproj",
+      "packagesPath": "C:\\Users\\4400092857\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\4400092857\\Source\\Repos\\Project1Git\\CKK.Logic\\CKK.Logic\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\larav\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\4400092857\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
