@@ -20,3 +20,15 @@ C:\Users\larav\OneDrive\Desktop\MyProgramming\Project1\Real CKK Folder\Real CKK.
 C:\Users\larav\OneDrive\Desktop\MyProgramming\Project1\Real CKK Folder\Real CKK.Logic folder\CKK.Logic\CKK.Logic\obj\Debug\net6.0\refint\CKK.Logic.dll
 C:\Users\larav\OneDrive\Desktop\MyProgramming\Project1\Real CKK Folder\Real CKK.Logic folder\CKK.Logic\CKK.Logic\obj\Debug\net6.0\CKK.Logic.pdb
 C:\Users\larav\OneDrive\Desktop\MyProgramming\Project1\Real CKK Folder\Real CKK.Logic folder\CKK.Logic\CKK.Logic\obj\Debug\net6.0\ref\CKK.Logic.dll
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\bin\Debug\net6.0\CKK.Logic.deps.json
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\bin\Debug\net6.0\CKK.Logic.dll
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\bin\Debug\net6.0\CKK.Logic.pdb
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\obj\Debug\net6.0\CKK.Logic.csproj.AssemblyReference.cache
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\obj\Debug\net6.0\CKK.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\obj\Debug\net6.0\CKK.Logic.AssemblyInfoInputs.cache
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\obj\Debug\net6.0\CKK.Logic.AssemblyInfo.cs
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\obj\Debug\net6.0\CKK.Logic.csproj.CoreCompileInputs.cache
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\obj\Debug\net6.0\CKK.Logic.dll
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\obj\Debug\net6.0\refint\CKK.Logic.dll
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\obj\Debug\net6.0\CKK.Logic.pdb
+C:\Users\4400092857\Source\Repos\Project1Git\CKK.Logic\CKK.Logic\obj\Debug\net6.0\ref\CKK.Logic.dll
