@@ -119,11 +119,24 @@ namespace CKK.Logic.Models
         }
         public decimal GetTotal()
         {
+             
             decimal total = 0;
-            total += _product1.GetQuantity() * _product1.GetProduct().GetPrice();
-            total += _product2.GetQuantity() * _product2.GetProduct().GetPrice();
-            total += _product3.GetQuantity() * _product3.GetProduct().GetPrice();
+            if (_product1 != null)
+            {
+                total += _product1.GetTotal();
+            }
+            if (_product2 != null)
+            {
+                total += _product2.GetTotal();
+            }
+            if (_product3 != null)
+            {
+                total += _product3.GetTotal();
+            }
+
+            
             return total;
+
         }
         public ShoppingCartItem GetProduct(int prodNum)
         {
